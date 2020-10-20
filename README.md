@@ -12,6 +12,6 @@ Then open a browser to `localhost:8888`.
 
 ## Scripts
 
-1. [POC](notebooks/POC.ipynb] tests CadQuery features for our diagonal-symmetry usecase.
-2. [Floorplan](notebooks/Floorplan.ipynb] tests whether the shed can fit the things we want it to fit.
+1. [POC](notebooks/POC.ipynb) tests CadQuery features for our diagonal-symmetry usecase.
+2. [Floorplan](notebooks/Floorplan.ipynb) tests whether the shed can fit the things we want it to fit.
 3. [Framing](notebooks/Framing.ipynb) frames out the walls in 2x4s (in-progress).
