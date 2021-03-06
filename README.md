@@ -2,10 +2,10 @@
 
 ## Installation
 
-We are using `v1.0.0` of [jupyter-cadquery](https://github.com/bernhard-42/jupyter-cadquery), which you can run like so:
+We are using `v2.0.0` of [jupyter-cadquery](https://github.com/bernhard-42/jupyter-cadquery), which you can run like so:
 
 ```
-docker run -it --rm -v notebooks:/home/cq -p 8888:8888 bwalter42/jupyter_cadquery:1.0.0
+docker run -it --rm -v $(pwd)/notebooks:/home/cq -p 8888:8888 bwalter42/jupyter_cadquery:2.0.0
 ```
 
 Then open a browser to `localhost:8888`.
